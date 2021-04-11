@@ -20,6 +20,12 @@ In a nutshell, all-in-one preservation of written thoughts, be those text, math 
 neutriNote is designed to be ultra compact so as to operate smoothly in as many aging hardwares as possible.
 
 
+What is Community Edition?
+--------------------------
+
+Features that make use of Google related dependencies are not included.
+
+
 How to build
 ------------
 
