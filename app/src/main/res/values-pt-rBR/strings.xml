@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">neutriNote (Community Edition)</string>
+    <string name="app_name">neutriNote CE</string>
     <string name="browser_widget_name">Navegador do neutriNote</string>
     <string name="add_note_widget_name">neutriNote: Nova Nota</string>
     <string name="backup_service_name">Serviço de Backup do neutriNote</string>
