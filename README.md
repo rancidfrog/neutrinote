@@ -23,7 +23,7 @@ neutriNote is designed to be ultra compact so as to operate smoothly in as many 
 What is Community Edition?
 --------------------------
 
-Features that make use of Google related dependencies are not included.
+A small subset of features that make use of Google related dependencies are not included.
 
 
 How to build
@@ -35,7 +35,7 @@ Simply import into Android Studio and build.  That's it!
 Licensing
 ---------
 
-The project is licensed under the [GNU General Public License version 3 or later](https://choosealicense.com/licenses/gpl-3.0/).  Be sure to properly attribute [The Original Source](https://github.com/appml/neutrinote).
+The project is licensed under the [GNU General Public License version 3 or later](https://choosealicense.com/licenses/gpl-3.0/).  Please attribute to [this repo](https://github.com/appml/neutrinote).
 
     neutriNote - Markdown + Math in Just 3 MB!
     Copyright (C) 2021 App Mind Lab
